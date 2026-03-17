@@ -50,12 +50,6 @@ create `layouts` & `projects` folders in `/src`
 mkdir ./src/pages/projects && mkdir ./src/layouts
 ```
 
-start the development server
-
-```sh
-npm run dev
-```
-
 add a web font
 
 ```css
@@ -79,6 +73,12 @@ body {
 ```
 
 </details>
+
+start the development server
+
+```sh
+npm run dev
+```
 
 ## importing projects
 
